@@ -5,70 +5,60 @@
 ![Credits](https://img.shields.io/badge/Credits-2%20Units%20(Lab)-orange)
 ![Institution](https://img.shields.io/badge/Institution-Technological%20Institute%20of%20the%20Philippines-yellow)
 
-## 📌 Course Overview
+## ₊⊹ Course Overview 
 **CPE 010 (Data Structures and Algorithms)** focuses on solving computational problems by manipulating collected data through core data abstractions, data structures, and algorithm design. The course covers theoretical topics in algorithmic efficiency and complexity, space/time analysis, abstract data types (ADTs), trees, graphs, searching techniques, and sorting algorithms. All implementations, real-system performance measurements, and problem-solving applications are designed and written in **C++**.
 
 ---
 
-## 🎯 Course Objectives & Outcomes
+## ₊⊹ Course Objectives & Outcomes 
 
 ### Course Objectives
 * Understand and analyze algorithms and their computational complexity.
 * Implement essential data structures (ADTs, Linked Lists, Stacks, Queues, Trees, Graphs) using C++.
 * Apply mathematical techniques to evaluate algorithm efficiency and operations.
 * Conduct real-system performance measurements to solve engineering problems.
-* Support **SDG 9: Industry, Innovation, and Infrastructure**.
+  
 
-### Course Outcomes
-1. **CO 1:** Apply fundamental data structures and techniques to solve engineering-related problems through algorithm design.
-2. **CO 2:** Design efficient algorithms and analyze their space and time complexity.
-3. **CO 3:** Build efficient algorithms based on selected data structures using good programming styles in C++.
+## Hands-On Laboratory Activities & Course Topics ˎˊ˗
 
----
+### ★ Prelim Period 
 
-## 🧪 Hands-On Laboratory Activities & Course Topics
-
-### 🟢 Prelim Period
-
-* **Activity 0: Course & Tool Setup**
-  * Orientation for laboratory software, C++ compiler environment setup, and GitHub repository workflow.
-* **Activity 1: C++ Review & Abstract Data Types (ADTs)**
+* **Hands on Activity 1: Basic C++ Programming**
   * C++ programming review, defining custom struct/class ADTs, dynamic memory allocation (`new`/`delete`), and pointer manipulation.
-* **Activity 2: Space & Time Complexity Analysis**
+* **Hands on Activity 2: Arrays, Pointers and Dynamic Memory Allocation**
   * Practical exercises on calculating theoretical space and time complexity using Big-O notation and empirical measurement techniques.
-* **Activity 3: Linked Lists Implementation**
+* **Hands on Activity 3: Linked Lists**
   * Building Singly, Doubly, and Circular Linked Lists from scratch with insertion, deletion, and traversal operations.
-* **Activity 4: Stack ADT & Problem Solving**
-  * Implementation of Stacks using array-based and linked-list structures in C++.
-  * Solving stack applications (e.g., expression parsing/conversion, undo functionality).
-
-### 🟡 Midterm Period
-
-* **Activity 5: Queue ADT & Applications**
+* **Hands on Activity 4: Stack**
+  * Implementation of Stacks using array-based and linked-list structures.
+* **Hands on Activity 5: Queues**
   * Implementation of Queue data structures using both fixed-size arrays and linked lists.
   * Problem-solving scenarios involving FIFO operations and process scheduling.
-* **Activity 6: Searching Algorithms & Hash Tables**
+
+### ★ Midterm Period 
+
+* **Hands on Activity 6: Searching Techniques**
   * Implementation and performance comparison of Linear Search vs. Binary Search.
-  * Design and implementation of Hashing techniques (hash functions, collision resolution).
-* **Activity 7: Sorting Algorithms Comparison**
-  * C++ implementation of basic sorting algorithms (Bubble Sort, Selection Sort, Insertion Sort).
-  * Benchmarking execution times across varied dataset sizes.
-
-### 🔴 Final Period
-
-* **Activity 8: Tree ADT & Binary Search Trees (BST)**
+* **Hands on Activity 7: Sorting Algorithms Pt1**
+  * implementation of basic sorting algorithms (Bubble Sort, Selection Sort, Insertion Sort).
+* **Hands on Activity 8: Sorting Algorithms Pt2**
+*  implementation of basic sorting algorithms (Bubble Sort, Selection Sort, Insertion Sort).
+* **Hands on Activity 9: Tree ADT**
   * Building General Trees and Binary Search Trees (BST) with traversal algorithms (In-order, Pre-order, Post-order).
-  * Hands-on self-balancing operations using AVL Trees.
-* **Activity 9: Graph ADT & Pathfinding**
+* **Hands on Activity 10: Graph ADT**
   * Implementing Graphs using Adjacency Matrix and Adjacency List representations.
-  * Implementation of Breadth-First Search (BFS) and Depth-First Search (DFS) graph traversal algorithms.
-* **Activity 10: Theoretical vs. Experimental Performance Analysis**
-  * Conducting real-system performance measurements and execution time profiling.
-  * Classifying algorithms into time complexity classes using theoretical and experimental methods.
 
+### ★ Final Period 
+* **Hands on Activity 11: Basic Algorithm Analysis**
+
+* **Hands on Activity 12: Algorithmic Strategies**
+ 
+* **Hands on Activity 13: Parallel Algorithms and Multithreading**
+
+* **Hands on Activity 14: Algorithm Complexity**
 ---
 
-## 📂 Repository Structure
+## ⤷ Repository Structure
 
 ```text
 .
@@ -88,23 +78,4 @@
 └── README.md
 ```
 
----
 
-## 🛠️ Prerequisites & Requirements
-* **Prerequisites:** 
-  * `CPE009A` (Object-Oriented Programming 1)
-  * `MATH006` (Discrete Math)
-* **Language:** C++ (GCC / Clang / MSVC)
-
----
-
-## 🤖 Artificial Intelligence (AI) Policy
-Students may use artificial intelligence (AI) tools in this course **only with prior approval** from the instructor. Any authorized use must be fully disclosed and cited in the corresponding submission.
-
----
-
-## 📖 Recommended Textbooks & References
-* Stojanovic, D. (2024). *Data structures and algorithms with Go*. BPB Publications.
-* A, A. & L, P. R. (2023). *Advanced data structures and algorithms* (1st ed.). BPB Publications.
-* Liang, Y.D. (2023). *Introduction to python programming and data structures*. Pearson Education.
-* Camm, J.D. et al. (2025). *Data visualization: Exploring and explaining with data* (2nd ed.). Cengage Learning.
