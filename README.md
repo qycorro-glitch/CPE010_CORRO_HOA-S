@@ -1,10 +1,5 @@
 # CPE 010: Data Structures and Algorithms
 
-![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat&logo=cplusplus)
-![Course Code](https://img.shields.io/badge/Course%20Code-CPE%20010-blue)
-![Credits](https://img.shields.io/badge/Credits-2%20Units%20(Lab)-orange)
-![Institution](https://img.shields.io/badge/Institution-Technological%20Institute%20of%20the%20Philippines-yellow)
-
 ## ₊⊹ Course Overview 
 **CPE 010 (Data Structures and Algorithms)** focuses on solving computational problems by manipulating collected data through core data abstractions, data structures, and algorithm design. The course covers theoretical topics in algorithmic efficiency and complexity, space/time analysis, abstract data types (ADTs), trees, graphs, searching techniques, and sorting algorithms. All implementations, real-system performance measurements, and problem-solving applications are designed and written in **C++**.
 
