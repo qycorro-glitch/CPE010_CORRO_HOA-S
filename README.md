@@ -28,8 +28,6 @@
   * Implementation of Stacks using array-based and linked-list structures.
 * **Hands on Activity 5: Queues**
   * Implementation of Queue data structures using both fixed-size arrays and linked lists.
-  * Problem-solving scenarios involving FIFO operations and process scheduling.
-
 ### ★ Midterm Period 
 
 * **Hands on Activity 6: Searching Techniques**
