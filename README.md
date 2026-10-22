@@ -63,18 +63,11 @@
 ```text
 .
 ├── prelim/
-│   ├── act01-cpp-review/
-│   ├── act02-complexity/
-│   ├── act03-linked-lists/
-│   └── act04-stacks/
+│   
 ├── midterm/
-│   ├── act05-queues/
-│   ├── act06-searching-hashing/
-│   └── act07-sorting/
+│   
 ├── final/
-│   ├── act08-trees-avl/
-│   ├── act09-graphs-bfs-dfs/
-│   └── act10-performance-analysis/
+│   
 └── README.md
 ```
 
