@@ -58,25 +58,7 @@
 ---
 
 ## ⤷ Repository Structure
-```text
-.
-├── prelim/
-│   ├── HOA 1/
-│   ├── HOA 2/
-│   ├── HOA 3/
-│   ├── HOA 4/
-│   └── HOA 5/
-├── midterm/
-│   ├── HOA 6/
-│   └── HOA 7/
-│   └── HOA 8/
-│   └── HOA 9/
-│   └── HOA 10/
-├── final/
-│   ├── HOA 11/
-│   ├── HOA 12/
-│   ├── HOA 13/
-│   └── HOA 14/
-└── README.md
-
+### [PRELIM](./PRELIM)
+### [MIDTERM](./MIDTERM)
+### [FINALS](./FINALS)
 
